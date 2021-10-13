@@ -5,6 +5,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ApexComponent</name>
     </types>
